@@ -1,0 +1,13 @@
+dj-database-url==0.5.0
+Django==3.0.8
+django-debug-toolbar
+gunicorn==20.0.4
+psycopg2-binary
+pytz==2018.3
+PyYAML==3.12
+simplejson==3.13.2
+sqlparse==0.3.1
+whitenoise==5.2.0
+django-heroku
+apscheduler
+requests
